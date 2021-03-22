@@ -1,2 +1,3 @@
 print("hello swati")
-print("helo aditi")
+print("hello aditi")
+print("hello prachi")
